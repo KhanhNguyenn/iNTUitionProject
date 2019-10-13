@@ -1,0 +1,41 @@
+body{
+    background: #799F0C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ACBB78, #799F0C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ACBB78, #799F0C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+p{
+    position: fixed;
+    top: 2px;
+    left: 800px;
+}
+.p5Canvas{
+    position: fixed;
+    left : 100px;
+    top: 20px;
+}
+a.button {
+        -webkit-appearance: button;
+        -moz-appearance: button;
+        appearance: button;
+
+        text-decoration: none;
+        color: initial;
+        position: fixed;
+        top: 200px;
+        left: 900px;
+        font-size: 30px;
+        }
+button{
+   -webkit-appearance: button;
+        -moz-appearance: button;
+        appearance: button;
+
+        text-decoration: none;
+        color: initial;
+        position: fixed;
+        top: 250px;
+        left: 900px;
+        font-size: 30px;
+}
