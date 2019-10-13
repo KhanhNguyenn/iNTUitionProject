@@ -23,7 +23,7 @@ import tensorflow as tf
 
 np.set_printoptions(threshold=sys.maxsize)
 
-#### PART OF THIS CODE IS USING CODE FROM VICTOR SY WANG: https://github.com/iwantooxxoox/Keras-OpenFace/blob/master/utils.py ####
+
 import h5py
 import matplotlib.pyplot as plt
 _FLOATX = 'float32'
